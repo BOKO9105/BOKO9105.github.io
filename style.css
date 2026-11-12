@@ -737,6 +737,17 @@ section {
 }
 .proj-link:hover { color: var(--teal); border-color: var(--teal); }
 
+.proj-link-demo {
+  background: rgba(0,212,180,0.1);
+  border-color: rgba(0,212,180,0.35);
+  color: var(--teal);
+}
+.proj-link-demo:hover {
+  background: rgba(0,212,180,0.18);
+  border-color: var(--teal);
+  color: var(--teal);
+}
+
 /* ============================
    SKILLS
    ============================ */
